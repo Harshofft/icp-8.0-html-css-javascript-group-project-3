@@ -667,7 +667,7 @@ a:hover {
     .img-big {
         height: 400px;
         width: 250px;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
     }
 
     .img-big .main-img {
